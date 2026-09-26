@@ -1,0 +1,6 @@
+{
+  "name": "Vault - Distributed Object Storage Architecture & Docs",
+  "description": "Interactive documentation, visual architecture simulators, Go codebase, and requirement tracking for Vault fault-tolerant distributed object storage system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
